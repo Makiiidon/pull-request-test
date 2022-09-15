@@ -1,2 +1,3 @@
 # pull-request-test
-This is to test git hubs pull request.
+This is to test githubs pull request.
+This README was edited.
